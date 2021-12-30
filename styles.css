@@ -1,0 +1,90 @@
+.mainCard{
+    border: 1px solid;
+    width: 300px;
+    height: 482px;
+    padding: 5px;
+    /*display: flex;*/
+}
+
+.userDataNav{
+    order: 1;
+    margin-left: 8px;
+    height: 46px;
+    margin-top: 3px;
+}
+
+#top-text{
+    font-family:'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+#lower-text{
+    font-size: 15px;
+}
+
+
+.icon{
+    align-self: center;
+    font-size: 22px;
+}
+.topCard{
+    padding: 3px;
+    padding-top: 0px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftTopCardData{
+    display: flex;
+    width: max-content;
+}
+
+.elipsis{
+    display: flex;
+    justify-content: flex-end;
+    align-self: center;
+}
+
+.userImage{
+    display: flex;
+    height: 300px;
+
+}
+
+img {
+  max-width: 100%;  
+}
+
+.mainUserIcons{
+    display: flex;
+    height: 30px;
+    margin-top: 5px;
+    justify-content: space-between;
+    font-size: 18px;
+
+}
+
+.leftUserIcons{
+    margin: 3px;
+}
+
+.rigthUserIcons{
+    display: flex;
+    justify-content: flex-end;
+    margin: 3px;
+}
+
+.cardContent {
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+}
+
+#p1{
+    margin: 0;
+    padding: 0;
+}
+
+#p2{
+    margin-top: 5px;
+}
